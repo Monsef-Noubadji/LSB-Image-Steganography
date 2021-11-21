@@ -1,7 +1,6 @@
-**LBS-Image-Steganography**
+# LBS-Image-Steganography
 
 A simple LSB (least significant bit) image steganography web app that uses the RGB channels.
-
 
 **$- Setup & Usage:**
 
@@ -11,9 +10,9 @@ A simple LSB (least significant bit) image steganography web app that uses the R
 
 3- type in your plaintext in the URL or in the input box.
 
-4- Click hide to steganize the message.
+4- Click **'hide'** to steganize the message.
 
-5- Click on 'Reveal hidden data' to output the plaintext :) .
+5- Click on **'Reveal hidden data'** to output the plaintext :) .
 
 **$- Disclarm:** 
 
