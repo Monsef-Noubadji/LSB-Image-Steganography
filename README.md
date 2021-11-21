@@ -15,7 +15,7 @@ A simple LSB (least significant bit) image steganography web app that uses the R
 
 5- Click on 'Reveal hidden data' to output the plaintext :) .
 
-**$- Disclarm: ** 
+**$- Disclarm:** 
 
 This script uses 3 channels at once for each pixel (RGB) , You are free to improve it and push your changes through pull request ;).
 
