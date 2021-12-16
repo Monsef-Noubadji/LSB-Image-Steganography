@@ -16,7 +16,7 @@ A simple LSB (least significant bit) image steganography web app that uses the R
 
 **$- Disclarm:** 
 
-This script uses 3 channels at once for each pixel (RGB) , Improvement is welcomed  ;).
+This script uses 3 channels at once for each pixel (RGB) , Optimization through pull requests is welcomed  ;).
 
 
 Happy Coding :)
