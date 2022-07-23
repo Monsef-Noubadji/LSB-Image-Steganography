@@ -84,12 +84,12 @@ function steganize($file, $message)
 <body>
     <h3 style="font-family:sans-serif;font-size:2rem;">Stego Web app</h3>
     <img style="width:40%;height:40%;" src="img.jpg" alt="nerd">
-    <form action="index.php" method="GET">
+    <form action="index.html" method="GET">
         <p class="style"> First thing first :</p> <input class="style" id="input" type="text" name="plaintext" placeholder="type in your message">
         <p class="style"> Then click here : </p> <input class="style" id="btn" type="submit" value="hide">
     </form>
     <br><br><br>
-    <p class="style"> Theeen go here to see magic happens:</p> <br> <a id="link" href="desteganize.php">Reveal the data ;)</a>
+    <p class="style"> Theeen go here to see magic happens:</p> <br> <a id="link" href="desteganize.html">Reveal the data ;)</a>
     <?php
     $file = 'img.jpg';
     $message = '';
